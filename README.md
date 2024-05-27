@@ -16,3 +16,10 @@ Deepfake_detection_using_deep_learning
      
 2. Model Creation
    - This directory consists of the step-by-step process of creating and training a deepfake detection model using our approach.
+
+## 3. Dataset
+Some of the dataset we used are listed below:
+
+FaceForensics++ - https://github.com/ondyari/FaceForensics
+Celeb-DF - https://github.com/yuezunli/celeb-deepfakeforensics
+Deepfake Detection Challenge - https://www.kaggle.com/c/deepfake-detection-challenge/data
